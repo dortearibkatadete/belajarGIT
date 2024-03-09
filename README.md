@@ -9,3 +9,12 @@ Daftar tugas / branch
 
 Daftar perintah GIT
 ... 
+git branch [nama cabang]
+git checkout [nama cabang]
+touch [nama file.txt]
+edit file buka pada notepad
+git add . [staging area]
+git commit -m "[pesan commit]"
+git checkout main
+git merge [nama cabang]
+git push origin main
